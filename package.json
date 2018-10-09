@@ -1,0 +1,26 @@
+{
+  "name": "TwitterBot",
+  "description": "A bot that tweets after a specified interval",
+  "version": "0.0.1",
+  "homepage": "https://github.com/raunak0212",
+  "main": "quote.js",
+  "dependencies": {
+    "node-restclient": "0.0.1",
+    "twit": "1.1.6",
+    "express": "2.5.9"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.8.9"
+	
+  },
+  "scripts": {
+    "start": "node bots.js"
+  },
+  "author": {
+    "name": " Ravi",
+   
+  }
+}
